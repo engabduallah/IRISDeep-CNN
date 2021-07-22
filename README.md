@@ -5,6 +5,7 @@ If you have any issues or comments on the project, contact me on Linkedin (https
 I also provided the dataset that I used in this project so that you can try it by yourself. 
 
 Insight about the project: 
+
 Implementing an identity recognition system based on convolutional neural networks (CNN) and evaluating it with the provided dataset taken from BioSecure Multimodal Database (BMDB) that consists of 200 subjects includes four eye images (two left and two right) for people within the age range of 18-73. Using a high-level language program, particularly Python, and common libraries such as PyTorch OpenCV, Matplotlib, Pandas, and Numpy.
 
 The CNN Architecture: 

@@ -32,7 +32,7 @@ Also, the eye images should be cropped to only include
 the iris region by using the given information in parameters.txt. 
 
 You can download the Dataset from the following link: 
-
+https://drive.google.com/file/d/1LToKrSq42xFymFJRzaBrIZuJasTVEgqP/view?usp=sharing
 
 Enjoy it. 
 
